@@ -1,0 +1,6 @@
+{
+    "logfile":{
+        "path": "/root/test_api/logfile.log",
+        "format": "%(levelname)s %(asctime)s - %(message)s"
+    }
+}
